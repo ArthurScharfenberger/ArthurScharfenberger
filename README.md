@@ -8,14 +8,14 @@
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-2b2b2b?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-2b2b2b?style=flat&logo=javascript&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-2b2b2b?style=flat&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-2b2b2b?style=flat&logo=node.js&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-PowerBI-2b2b2b?style=flat&logo=powerbi&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-2b2b2b?style=flat&logo=git&logoColor=white)    
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)  
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)  
+![Power BI](https://img.shields.io/badge/-PowerBI-000?style=flat&logo=powerbi)  
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)  
 
 ---
 
