@@ -1,6 +1,6 @@
 # Arthur Scharfenberger  
 
-👔 Estudante de **Tecnologia da Informação**, com foco em **Inteligência Artificial** e **Desenvolvimento Full-Stack**.  
+👔 Estudante de **Tecnologia da Informação**, com foco em **Inteligência Artificial** e **Desenvolvimento Front-End**.  
 🎯 Comprometido em criar soluções que unem **inovação, eficiência e responsabilidade**.  
 🚀 Busco constantemente evolução através de **aprendizado contínuo** e **melhoria constante**.  
 
