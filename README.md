@@ -13,8 +13,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)  
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)  
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)  
-![Power BI](https://img.shields.io/badge/-PowerBI-000?style=flat&logo=powerbi)  
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)  
+![Power BI](https://img.shields.io/badge/-PowerBI-000?style=flat&logo=powerbi)  
 
 ---
 
