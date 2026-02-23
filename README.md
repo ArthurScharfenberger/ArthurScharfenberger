@@ -19,19 +19,8 @@
 
 ---
 
-## 📊 Estatísticas no GitHub  
-
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurScharfenberger&show_icons=true&theme=github_dark&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurScharfenberger&layout=compact&theme=github_dark&hide_border=true)  
-
----
-
 ## 🌍 Conecte-se comigo  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/ArthurScharfenberger)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/ArthurScharfenberger)  
 
----
-
-✨ *“Tecnologia com propósito. Inovação com responsabilidade.”*  
