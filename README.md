@@ -159,29 +159,6 @@ export default Arthur;
 
 ---
 
-<!-- ════════════════════ IA STACK ════════════════════ -->
-
-## 🤖 IA no meu fluxo de trabalho
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🧠  MEU ARSENAL DE INTELIGÊNCIA ARTIFICIAL                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  Claude (Anthropic)   ████████████████████  Arquitetura · Código    ║
-║  GitHub Copilot       ████████████████████  Autocomplete · Daily    ║
-║  Cursor IDE           ████████████████░░░░  IDE com IA nativa       ║
-║  ChatGPT              ████████████████░░░░  Brainstorming · Debug   ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
 <div align="center">
 
 | 🤖 | Ferramenta | Para que uso |
@@ -196,11 +173,6 @@ export default Arthur;
 <br/>
 
 <div align="center">
-
-> ### 💡 *"Não uso IA para substituir raciocínio — uso para amplificar resultado."*
-> *O developer do futuro não compete com IA. Ele a domina.*
-
-</div>
 
 ---
 
