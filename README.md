@@ -1,133 +1,128 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Arthur%20Scharfenberger&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI-Driven%20Full-Stack%20Developer&descAlignY=60&descSize=18&descColor=a0a0b0"/>
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a5e,100:1a6bcc&height=220&section=header&text=Arthur%20Scharfenberger&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20TI%20%7C%20Full-Stack%20Developer%20%7C%20AI-Driven%20Builder&descAlignY=60&descSize=17&descColor=79c0ff"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Building+the+future+with+AI+%F0%9F%A4%96;Full-Stack+%7C+Python+%7C+TypeScript+%7C+React;%22AI+n%C3%A3o+substitui+o+dev+%E2%80%94+amplifica.%22)](https://git.io/typing-svg)
+<br/>
 
-<br>
+<!-- TYPING ANIMADO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=👔+Estudante+de+Tecnologia+da+Informação;🤖+Desenvolvendo+com+IA+no+centro+do+fluxo;🚀+Aprendizado+contínuo+%2B+melhoria+constante)](https://git.io/typing-svg)
 
-<!-- ANIMATED BADGES ROW -->
-![Profile Views](https://komarev.com/ghpvc/?username=ArthurScharfenberger&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/ArthurScharfenberger?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArthurScharfenberger&style=for-the-badge&color=1a6bcc&labelColor=0d1117&label=VISITAS+AO+PERFIL)
+![Seguidores](https://img.shields.io/github/followers/ArthurScharfenberger?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=SEGUIDORES)
 
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
-## `> whoami`
+## 👤 Sobre mim
 
 ```typescript
 const Arthur = {
-  location   : "🇧🇷 Brasil",
-  role       : "Estudante de TI",
+  papel      : "Estudante de Tecnologia da Informação",
+  foco       : ["Inteligência Artificial", "Desenvolvimento Full-Stack"],
+  missão     : "Criar soluções que unem inovação, eficiência e responsabilidade.",
+  filosofia  : "Busco evolução através de aprendizado contínuo e melhoria constante.",
 
-  focus: {
-    current  : ["Inteligência Artificial", "Full-Stack Development"],
-    learning : ["LLMs & Prompt Engineering", "AI Agents", "RAG Systems"],
+  ia         : {
+    postura  : "IA não substitui o dev — amplifica quem sabe usá-la.",
+    uso      : "AI-augmented development → velocidade e qualidade × 10",
+    aprendendo: ["Prompt Engineering", "AI Agents", "RAG Systems", "LLMs"],
   },
 
-  aiWorkflow: {
-    daily    : ["Claude (Anthropic)", "GitHub Copilot", "Cursor IDE"],
-    strategy : "AI-augmented development — velocidade humana × 10",
-  },
-
-  philosophy : "Build fast. Learn faster. Ship with purpose.",
-  motto      : "AI não substitui o dev — amplifica quem sabe usá-la.",
-
-  status     : "🟢 Open to collaborations & opportunities",
+  status     : "🟢 Aberto a colaborações e oportunidades",
 };
 ```
 
 ---
 
-## `> tech_stack --all`
+<!-- SNAKE ANIMATION -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
+</div>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58a6ff)
 
-### 🖼️ Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+### 🖼️ Front-end
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=58a6ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=58a6ff)
 
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+### ⚙️ Back-end & Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=58a6ff)
 
 </div>
 
 ---
 
-## `> ai_stack --active`
+## 🤖 IA no meu fluxo de trabalho
 
 <div align="center">
 
-| 🤖 Ferramenta | 🎯 Uso no dia a dia | ⚡ Impacto |
-|:---:|:---|:---:|
-| **Claude** | Arquitetura, raciocínio complexo, revisão de código | `█████` |
-| **GitHub Copilot** | Autocomplete inteligente, pair programming com IA | `█████` |
-| **Cursor IDE** | IDE com IA nativa para desenvolvimento acelerado | `████░` |
-| **ChatGPT** | Brainstorming, pesquisa rápida, debugging | `████░` |
+> *"Não uso IA para substituir raciocínio — uso para amplificar resultado."*
+
+| Ferramenta | Como uso |
+|:---:|:---|
+| 🧠 **Claude (Anthropic)** | Arquitetura de sistemas, revisão de código e raciocínio complexo |
+| ⚡ **GitHub Copilot** | Autocomplete inteligente e pair programming com IA |
+| 🖱️ **Cursor IDE** | IDE com IA nativa para desenvolvimento acelerado |
+| 💬 **ChatGPT** | Brainstorming, pesquisa rápida e resolução de bloqueios |
 
 </div>
 
-> 💡 *"Developers who use AI aren't replaced by AI. They're the ones building what comes next."*
-
 ---
 
-## `> github stats`
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <a href="https://github.com/ArthurScharfenberger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurScharfenberger&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0a0b0&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurScharfenberger&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0a0b0&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurScharfenberger&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=79c0ff&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurScharfenberger&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=79c0ff&border_radius=10"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/ArthurScharfenberger">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurScharfenberger&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&border_radius=10"/>
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurScharfenberger&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10"/>
 </a>
 
 </div>
 
 ---
 
-## `> activity --graph`
+## 📈 Gráfico de Atividade
 
 <div align="center">
 
-[![Arthur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurScharfenberger&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/ArthurScharfenberger)
+[![Gráfico de atividade do Arthur](https://github-readme-activity-graph.vercel.app/graph?username=ArthurScharfenberger&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1a6bcc&point=79c0ff&area=true&hide_border=true)](https://github.com/ArthurScharfenberger)
 
 </div>
 
 ---
 
-## `> connect --social`
+## 🌍 Conecte-se comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ArthurScharfenberger)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurScharfenberger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/ArthurScharfenberger)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/ArthurScharfenberger)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6bcc,60:0a2a5e,100:0d1117&height=130&section=footer&animation=twinkling"/>
 
 </div>
