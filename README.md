@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020917)](https://www.linkedin.com/in/ArthurScharfenberger)
 [![GitHub](https://img.shields.io/badge/GitHub-@ArthurScharfenberger-1253a4?style=for-the-badge&logo=github&logoColor=white&labelColor=020917)](https://github.com/ArthurScharfenberger)
-![Visitas](https://komarev.com/ghpvc/?username=ArthurScharfenberger&style=for-the-badge&color=1253a4&labelColor=020917&label=VISITAS)
+
 
 </div>
 
