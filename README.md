@@ -128,8 +128,12 @@ export default Arthur;
   <sub><b>Power BI</b></sub>
 </td>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=cursor&theme=dark" width="48"/><br/>
-  <sub><b>Cursor IDE</b></sub>
+  <img
+    src="https://cdn.simpleicons.org/claude"
+    width="48"
+    alt="Claude"
+  /><br/>
+  <sub><b>Claude</b></sub>
 </td>
 <td align="center" width="110">
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/>
@@ -138,14 +142,6 @@ export default Arthur;
 <td align="center" width="110">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br/>
   <sub><b>Figma</b></sub>
-</td>
-<td align="center" width="110">
-  <img
-    src="https://cdn.simpleicons.org/claude"
-    width="48"
-    alt="Claude"
-  /><br/>
-  <sub><b>Claude</b></sub>
 </td>
 </tr>
 </table>
