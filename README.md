@@ -28,19 +28,6 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=ArthurScharfenberger&show_icons=true&theme=github_dark&hide_border=true&bg_color=020917&title_color=58a6ff&icon_color=58a6ff&text_color=79c0ff&border_radius=12&rank_icon=github"/>
 
-## 🧬 Quem sou eu
-
-👔 Estudante de **Tecnologia da Informação** com foco em  
-&nbsp;&nbsp;&nbsp;&nbsp;**Inteligência Artificial** e **Desenvolvimento Full-Stack**
-
-🎯 Comprometido em criar soluções que unem  
-&nbsp;&nbsp;&nbsp;&nbsp;**inovação, eficiência e responsabilidade**
-
-🚀 Busco evolução constante através de  
-&nbsp;&nbsp;&nbsp;&nbsp;**aprendizado contínuo** e **melhoria diária**
-
-🤖 Acredito que o dev do futuro é aquele que  
-&nbsp;&nbsp;&nbsp;&nbsp;**domina IA como ferramenta**, não teme como substituto
 
 <br clear="right"/>
 
