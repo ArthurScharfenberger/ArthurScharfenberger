@@ -158,19 +158,6 @@ export default Arthur;
 
 ---
 
-<!-- ════════════════════ TROPHY ════════════════════ -->
-
-## 🏆 Conquistas
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArthurScharfenberger&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ArthurScharfenberger)
-
-</div>
-
----
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020917)](https://www.linkedin.com/in/ArthurScharfenberger)
 [![GitHub](https://img.shields.io/badge/GitHub-Meus%20Projetos-1253a4?style=for-the-badge&logo=github&logoColor=white&labelColor=020917)](https://github.com/ArthurScharfenberger)
 
