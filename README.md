@@ -167,27 +167,6 @@ export default Arthur;
 
 ---
 
-<!-- ════════════════════ STATS ════════════════════ -->
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/ArthurScharfenberger">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ArthurScharfenberger&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=020917&title_color=58a6ff&icon_color=58a6ff&text_color=79c0ff&border_radius=12"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurScharfenberger&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=020917&title_color=58a6ff&text_color=79c0ff&border_radius=12"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ArthurScharfenberger">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurScharfenberger&theme=github-dark-blue&hide_border=true&background=020917&ring=58a6ff&fire=1a6bcc&currStreakLabel=58a6ff&sideLabels=79c0ff&dates=4a6fa5&border_radius=12"/>
-</a>
-
-</div>
-
----
-
 <!-- ════════════════════ TROPHY ════════════════════ -->
 
 ## 🏆 Conquistas
@@ -200,40 +179,6 @@ export default Arthur;
 
 ---
 
-<!-- ════════════════════ ACTIVITY GRAPH ════════════════════ -->
-
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=ArthurScharfenberger&bg_color=020917&color=58a6ff&line=1253a4&point=79c0ff&area_color=1253a4&area=true&hide_border=true&radius=8)](https://github.com/ArthurScharfenberger)
-
-</div>
-
----
-
-<!-- ════════════════════ SNAKE ════════════════════ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribuições"/>
-</div>
-
----
-
-<!-- ════════════════════ CITAÇÃO FINAL ════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-```
-  "A inteligência artificial é a nova eletricidade.
-   Assim como ela transformou tudo no século XX,
-   a IA transformará tudo no século XXI."
-                                    — Andrew Ng
-```
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020917)](https://www.linkedin.com/in/ArthurScharfenberger)
 [![GitHub](https://img.shields.io/badge/GitHub-Meus%20Projetos-1253a4?style=for-the-badge&logo=github&logoColor=white&labelColor=020917)](https://github.com/ArthurScharfenberger)
