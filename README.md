@@ -24,15 +24,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ SOBRE MIM ═══════════════════════ -->
-
-<img align="center" justify-align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=ArthurScharfenberger&show_icons=true&theme=github_dark&hide_border=true&bg_color=020917&title_color=58a6ff&icon_color=58a6ff&text_color=79c0ff&border_radius=12&rank_icon=github"/>
-
-
-<br clear="right"/>
-
----
-
 <!-- ═══════════════════════ CÓDIGO BIO ═══════════════════════ -->
 
 ## 💻 `arthur.config.ts`
