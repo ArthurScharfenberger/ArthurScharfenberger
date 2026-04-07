@@ -143,12 +143,6 @@ export default Arthur;
 
 <div align="center">
 
-| 🤖 | Ferramenta | Para que uso |
-|:---:|:---|:---|
-| 🧠 | **Claude — Anthropic** | Raciocínio complexo, arquitetura de sistemas, revisão profunda de código e tomada de decisões técnicas |
-| ⚡ | **GitHub Copilot** | Pair programming com IA, autocomplete contextual e aceleração no desenvolvimento diário |
-| 🖱️ | **Cursor IDE** | Ambiente de desenvolvimento com IA integrada — edições, refatoração e geração em tempo real |
-| 💬 | **ChatGPT** | Brainstorming, pesquisa rápida, validação de ideias e resolução de bloqueios criativos |
 
 </div>
 
