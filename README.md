@@ -45,14 +45,14 @@ const Arthur: Developer = {
   stack: {
     linguagens: ["Python", "TypeScript", "JavaScript"],
     frontend  : ["React", "HTML5", "CSS3"],
-    backend   : ["Node.js", "REST APIs"],
+    backend   : ["Node.js", "REST APIs", "Java"],
     dados     : ["Power BI", "SQL"],
     versionamento: ["Git", "GitHub"],
   },
 
   ia: {
     filosofia : "IA não substitui o dev — amplifica quem sabe usá-la.",
-    ferramentas: ["Claude", "GitHub Copilot", "Cursor IDE", "ChatGPT"],
+    ferramentas: ["Claude", "GitHub Copilot", "Manus", "ChatGPT", "Gemini"],
     abordagem : "AI-augmented development → qualidade × velocidade × 10",
   } satisfies AIStack,
 
