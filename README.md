@@ -16,6 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020917)](https://www.linkedin.com/in/ArthurScharfenberger)
 [![GitHub](https://img.shields.io/badge/GitHub-@ArthurScharfenberger-1253a4?style=for-the-badge&logo=github&logoColor=white&labelColor=020917)](https://github.com/ArthurScharfenberger)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-iamarthurzin.site-1a6bcc?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020917)](https://iamarthurzin.site/)
 
 
 </div>
@@ -61,6 +62,30 @@ const Arthur: Developer = {
 
 export default Arthur;
 ```
+
+---
+
+<!-- ════════════════════ PORTFÓLIO ════════════════════ -->
+
+## 🌐 Portfólio
+
+<div align="center">
+
+<a href="https://iamarthurzin.site/">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1f4e,50:1253a4,100:1a6bcc&height=120&text=Conhe%C3%A7a%20meu%20portf%C3%B3lio%20%E2%86%92&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=iamarthurzin.site&descSize=18&descColor=79c0ff&descAlignY=74" alt="Acessar o portfólio de Arthur Scharfenberger"/>
+</a>
+
+<br/>
+
+Sites que desenvolvi para negócios reais, no ar e prontos para visitar:
+
+**☕ Guido Café & Co. · 🦉 Corujões · 🐄 Vacafé · ☕ Café da Esquina**
+
+<br/>
+
+[![Acessar portfólio](https://img.shields.io/badge/Acessar_portf%C3%B3lio-%E2%86%92-1a6bcc?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020917)](https://iamarthurzin.site/)
+
+</div>
 
 ---
 
@@ -143,17 +168,11 @@ export default Arthur;
 
 <div align="center">
 
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020917)](https://www.linkedin.com/in/ArthurScharfenberger)
 [![GitHub](https://img.shields.io/badge/GitHub-Meus%20Projetos-1253a4?style=for-the-badge&logo=github&logoColor=white&labelColor=020917)](https://github.com/ArthurScharfenberger)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-iamarthurzin.site-1a6bcc?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020917)](https://iamarthurzin.site/)
 
 <br/>
 
